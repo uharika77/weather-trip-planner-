@@ -1,9 +1,11 @@
 WeatherWander: Travel Companion Web App
 
 Overview:
+
 WeatherWander is a dynamic web application that seamlessly integrates weather forecasts with trip planning functionality. Users can easily check real-time weather updates for any location worldwide and plan their trips accordingly. The project combines weather APIs for accurate forecasts and offers an intuitive user interface for a hassle-free experience.
 
 Features
+
 1.Weather Forecast:
 Real-time weather updates, including temperature, humidity, wind speed, and more.
 2.Trip Planning:
@@ -16,6 +18,7 @@ User-friendly experience across various devices - desktops, tablets, and smartph
 Connect with other travelers, share experiences, and get inspired.
 
 Technologies Used
+
 1.Frontend:
 HTML5, CSS3, JavaScript (Bootstrap 4.5.0, Font Awesome icons)
 2.Backend:
