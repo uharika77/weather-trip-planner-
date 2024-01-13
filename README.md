@@ -32,4 +32,4 @@ Navigate to the "Home" section for quick weather updates or use the search bar t
 Plan your trips by entering your desired destination in the "Trip Planner" section.
 Explore featured tours and book your next adventure seamlessly.
 
-[WeatherWander: Travel Companion Web App pictures (:point_right:)](https://drive.google.com/drive/folders/1McQR6BdC6KcCpuNYouk9DSO8VmiZ1EEQ?usp=share_link)
+[WeatherWander: Travel Companion Web App pictures](https://drive.google.com/drive/folders/1hegtmJqtmjEhyzMrBWagl02CCkPej0RH?usp=share_link)
