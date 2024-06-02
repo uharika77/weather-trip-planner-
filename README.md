@@ -1,6 +1,6 @@
-# WeatherWander: 
+# WeatherWander
 
-Travel Companion Web App
+WeatherWander: Travel Companion Web App
 
 ## Overview:
 
